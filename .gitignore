@@ -1,0 +1,15 @@
+.idea/
+.DS_Store
+package-lock.json
+*.lock
+!yarn.lock
+*.log
+out/
+node_modules/
+coverage/
+
+
+/dist/img/*
+/dist/core/*
+/public/img/*
+favicon.png
